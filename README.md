@@ -13,19 +13,7 @@ Medical Science has various other sub branches; one such field of medical scienc
 Our project basically aims at designing an algorithm, that would basically assist the process in two ways. Firstly, it would predict the presence of the diseases in the specimen in very less amount of time. And secondly, this would assist the doctors, in detection and diagnosis of the diseases, without requiring their presence for each and every case of Tinea being encountered.
 </p>
 
-### Dependencies:
 
-* Flask==1.0.2
-* Keras==2.2.4
-* matplotlib==3.0.2
-* numpy==1.15.4
-* openpyxl==2.5.11
-* pandas==0.23.4
-* Pillow==5.3.0
-* pygal==2.4.0
-* requests==2.20.1
-* tensorflow==1.12.0
-* xlrd==1.1.0
 
 
 
